@@ -1,0 +1,3 @@
+# JURI
+
+## Gameplan Notes
