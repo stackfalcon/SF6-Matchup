@@ -13,3 +13,6 @@ _____
   - `stLK` punish.
   - still `-1` during `Drive Rush`, can just hit `stLK`.
   - `crMK xx fMP` is also `-5`.
+
+## Sonic Blade
+- Very bad low hitbox/hurbox, lows can easily punish this.
