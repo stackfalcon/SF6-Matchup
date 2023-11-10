@@ -1,5 +1,6 @@
 # JP
-
+## Corner Throw Loop: Yes
+___
 ## Gameplan Notes
 - Play in midrange! Don't give him fullscreen.
 - Can rotate `Fireball`, `Stepkick`, `Drive Rush stLP`, `Dragonlash`.

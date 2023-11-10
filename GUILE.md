@@ -1,5 +1,6 @@
 # GUILE
-
+## Corner Throw Loop: No
+___
 ## Gameplan Notes
 - Walk him down, parry `booms`. No need to waste meter on `EX Fireball` often.
 - DO NOT let him out of the corner.

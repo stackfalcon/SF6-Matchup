@@ -1,5 +1,6 @@
 # JAMIE
-
+## Corner Throw Loop: Yes
+___
 ## Gameplan Notes
 
 - `stHP` seems to do well against his `stMK`.

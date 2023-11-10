@@ -1,5 +1,6 @@
 # RYU
-
+## Corner Throw Loop: Yes
+___
 ## Gameplan Notes
 
 ___

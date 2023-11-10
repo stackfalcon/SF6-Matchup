@@ -1,5 +1,6 @@
 # CAMMY
-
+## Corner Throw Loop: Yes
+___
 ## Gameplan Notes
 ___
 ## Burnout vs Spin Knuckle

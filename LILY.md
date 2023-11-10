@@ -1,5 +1,6 @@
 # LILY
-
+## Corner Throw Loop: No
+___
 ## Gameplan Notes
 - Keep in mind that `EX DP` is ONLY `throw` invulnerable.
 ___

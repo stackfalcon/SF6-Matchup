@@ -1,4 +1,6 @@
 # HONDA
+## Corner Throw Loop: No
+___
 ## Gameplan Notes
 - Keep in mind `EX Headbutt` loses to throw.
 - Careful around his neutral jumps -- he can move forward while attacking.

@@ -1,5 +1,6 @@
 # CHUNLI
-
+## Corner Throw Loop: No
+___
 ## Gameplan Notes
 _____
 ## Stomp Oki:
