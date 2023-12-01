@@ -11,3 +11,8 @@ ___
 
 - Block her `crLP` then mash `crLP` to beat `lights` (range), `crMP`, and `...xx Spin` (speed)
 - Mash immediately to beat `crMP xx Spin`
+
+## Jab Strings
+
+- `Cammy` has ZERO options to beat `stLK` after she does strings with 3 `light` normals. 
+  - She HAS to block or cancel into something unsafe, even `Drive Rush` is too slow to counterhit.
