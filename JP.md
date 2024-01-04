@@ -23,6 +23,9 @@ _____
 - `Teleport` has JP spin his cane, react with `DP` / `crHP xx H Jinrai`.
 - If `Teleport` is right above you, up/back `jMK` is the ony reliable answer.
 _____
+## Trap -> Drive Rush:
+- This is only real if `trap` autodetonates, after `trap`->`snap` `Drive Rush` puts him at `-1` at the best.
+_____
 ## H Spike:
 - After `H Spike` you can `run` from fullscreen and `Tatsu` just about any special on reaction.
 - After `H Spike` midscreen `run->Stepkick` becomes the more reliable option.
