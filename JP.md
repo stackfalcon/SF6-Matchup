@@ -8,6 +8,9 @@ ___
 - React to `Trap` -> `Drive Rush` with `Sweep`.
 - His specials are all minus except for `EX` and `236hp`.
 _____
+## Cane Sweep (3HP)
+- This is `-14`, make sure to always punsih with `stHK`, it always reaches.
+-----
 ## Anti Amnesia:
 - `Drive Rush stLP` is `+8` after `Amnesia`, do one `stMK` to lock down and wait it out.
 - immediate `stHK`->`Perfect Parry` works pretty well to mitigate risk midscreen(?)
