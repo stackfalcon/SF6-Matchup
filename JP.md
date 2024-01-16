@@ -42,5 +42,5 @@ _____
 - Jump forward `EX Tatsu` on reaction can help close the distance, `stMK` probably best followup whether it hits or whiffs.
 _____
 ## EX Claw:
-- Very plus, but if he goes immediately into `Trap` it can be punished on reaction via `L Dragonlash ` or `M Dragonlash`.
-  - `L Dragonlash` is more reliable but less range.
+- Very plus, but if he goes immediately into `Trap` it can be punished on reaction via `Stepkick`.
+   - `Dragonlash`es other than `H Dragonlash` can work as well however it seems like overall a worse option.
