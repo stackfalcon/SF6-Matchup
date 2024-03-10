@@ -11,3 +11,8 @@ _____
 ## Buttslam 
 - `njHK` or `fjMP` wins.
 - Possibly worth labbing hold `parry` -> `backdash` -> `DP`.
+-----
+## Headbutt Defensive Options
+- walk back look for whiff punish
+- `stMK` to beat everything that isn't delay buttons/walk back and trades with immediate `jab`
+  - `SA2` trade combo
