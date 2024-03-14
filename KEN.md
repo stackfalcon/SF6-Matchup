@@ -2,6 +2,9 @@
 ## Corner Throw Loop: Yes
 ___
 ## Gameplan Notes
+  - Don't forget about double `Perfect Parry` vs `EX Fireball`
+
+
 ___
 ## Jinrai
 ### `M Jinrai` can be fuzzy mashed on.
