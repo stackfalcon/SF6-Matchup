@@ -44,3 +44,6 @@ _____
 ## EX Claw:
 - Very plus, but if he goes immediately into `Trap` it can be punished on reaction via `Stepkick`.
    - `Dragonlash`es other than `H Dragonlash` can work as well however it seems like overall a worse option.
+_____
+## LV 2
+- When done in neutral, parry first 2 hits then jump back works to mitigate mix
