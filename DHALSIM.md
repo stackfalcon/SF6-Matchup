@@ -22,3 +22,16 @@ Situation when he throws a fireball:
         2. VS YOGA ARCH
           - if they like slide, DI on reaction beats HK slide -- ex/LK lash beats mk slide
           - if they like DR, try interrupt xx HP shoryu to go thru fireball
+        3. FLOAT FIREBALL
+          - jump if normal fireballs
+          - walk back vs EX fireball and be ready for jump back air to air vs teleport
+
+Also, be wary of parrying normal fireballs on the ground: you need to crouch under stHK to stop yourself from getting pushed out / losing drive gauge. 
+
+
+## crMP cancels
+At close range he likes to do crMP xx fireball or yoga flame. 
+
+- vs crMP xx fireball DI on the cancel will hit
+- vs crMP xx H Yoga Flame jump forward in the gap
+
