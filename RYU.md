@@ -12,4 +12,20 @@ ___
 ___
 ## Burnout stLP xx LP Hasho loop
 - Not real, `LP Hasho` is `+-0` so just jab out.
+___
+## Meaty Overhead Setups
+
+Basically just watch out in the corner when he combos with
+- `LK/EX Tatsu`
+- `MK Donkey Kick`
+
+Setups: 
+- lk tatsu -> jab whiff -> OH
+- mk donkey -> lk whiff -> OH
+- ex tatsu -> DR 2mp xx hasho -> lpDP -> whiff 2lk -> OH
+
+
+
+
+
 
