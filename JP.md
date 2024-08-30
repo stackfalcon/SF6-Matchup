@@ -12,6 +12,8 @@ _____
 - This is `-14`, make sure to always punsih with `stHK`, it always reaches.
 -----
 ## Anti Amnesia:
+
+- Safejumps leave you at `+14`, I think you can just jump back safely21 and then parry/block.
 - `Drive Rush stLP` is `+8` after `Amnesia`, do one `stMK` to lock down and wait it out.
 - immediate `stHK`->`Perfect Parry` works pretty well to mitigate risk midscreen(?)
 - Meaty `Fireball` can't be countered

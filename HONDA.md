@@ -5,6 +5,10 @@ ___
 - Keep in mind `EX Headbutt` loses to throw.
 - Careful around his neutral jumps -- he can move forward while attacking.
 _____
+
+## Safejumps
+- Safejump with light normals to beat `OD Headbutt`.
+
 ## Punishable Normals
 - `fHK` can always be punished by `stLK xx HK Tatsu`.
 _____
