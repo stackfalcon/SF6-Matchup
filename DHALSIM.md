@@ -16,15 +16,15 @@ ___
 
 ## Fireballs
 Situation when he throws a fireball:
-        1. VS NORMAL FIREBALL
-           - can try to dp through on reaction if close
-           - perfect parry and try to counter their habits -- lp shoryu if 2hp for example
-        2. VS YOGA ARCH
-          - if they like slide, DI on reaction beats HK slide -- ex/LK lash beats mk slide
-          - if they like DR, try interrupt xx HP shoryu to go thru fireball
-        3. FLOAT FIREBALL
-          - jump if normal fireballs
-          - walk back vs EX fireball and be ready for jump back air to air vs teleport
+ 1. VS NORMAL FIREBALL
+    - can try to dp through on reaction if close
+    - perfect parry and try to counter their habits -- lp shoryu if 2hp for example
+ 2. VS YOGA ARCH
+    - if they like slide, DI on reaction beats HK slide -- ex/LK lash beats mk slide
+    - if they like DR, try interrupt xx HP shoryu to go thru fireball
+ 3. FLOAT FIREBALL
+    - jump if normal fireballs
+    - walk back vs EX fireball and be ready for jump back air to air vs teleport
 
 Also, be wary of parrying normal fireballs on the ground: you need to crouch under stHK to stop yourself from getting pushed out / losing drive gauge. 
 
